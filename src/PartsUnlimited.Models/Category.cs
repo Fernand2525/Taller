@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {    
-    // Pruebe 17 de mayo
+    // Pruebe 17 de mayo ghghghghh
     public class Category
     {
         public int CategoryId { get; set; }
