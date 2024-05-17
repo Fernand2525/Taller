@@ -7,6 +7,8 @@ using System.Collections.Generic;
 using System.Linq;
 using Xunit;
 
+/// CAMBIO SCUA
+
 namespace PartsUnlimited.Utils
 {
     public class ConfigurationExtensionsTests
